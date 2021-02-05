@@ -1,12 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 import time
-import locale
 from PIL import ImageTk,Image
-from win10toast import ToastNotifier
-
-locale.setlocale(locale.LC_ALL,"")
-toast = ToastNotifier()
 
 class Counter():
     def __init__(self):
