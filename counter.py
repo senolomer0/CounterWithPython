@@ -113,7 +113,6 @@ class Counter():
     
     def cancel(self):
         self.button_text.set("Start")
-        #self.ss +=1
         self.hour_text.set("00")
         self.minute_text.set("00")
         self.second_text.set("00")
