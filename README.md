@@ -1,2 +1,3 @@
-# pythoncounter
-Counter With Python
+# Counter With Python
+
+Kodun açıklamasını medium hesabımda bulabilirsiniz.
